@@ -1,0 +1,6 @@
+[workspace]
+
+members =[
+  "spell_well",
+  "spellwell",
+]
